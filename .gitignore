@@ -6,9 +6,6 @@ __pycache__/
 *.so
 
 # Virtual environment
-venv/
-fastapi-service/venv
-flask-service/venv
 ENV/
 .venv/
 
