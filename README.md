@@ -1,13 +1,13 @@
-# 🚀 API Services in Python
+# CHORN - Python Development
 
-This repository showcases two parallel implementations of a simple CRUD posts API:
+This CHORN's repository showcases two parallel implementations of a simple CRUD posts API using FastAPI and Flask frameworks.
 
 ## Fast API Framework
 
 * **`fastapi_service/`** → A FastAPI-based service using SQLAlchemy and Pydantic, structured with repositories,
   services, and routers.
 
-## Flask API Framework
+## Flask Framework
 
 * **`flask_service/`** → A Flask-based service using SQLAlchemy, Marshmallow, JWT, and caching, organized with
   blueprints, services, and repositories.
